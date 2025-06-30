@@ -47,6 +47,8 @@ landingContent:
             url: how-to/how-to-integrate-with-inference-sdks.md
           - text: Integrate with LangChain
             url: how-to/how-to-use-langchain-with-foundry-local.md
+          - text: Integrate with Semantic Kernel
+            url: how-to/how-to-use-semantic-kernel-with-foundry-local.md
           - text: Integrate with Open Web UI
             url: how-to/how-to-chat-application-with-open-web-ui.md
           - text: Compile Hugging Face models to run on Foundry Local
